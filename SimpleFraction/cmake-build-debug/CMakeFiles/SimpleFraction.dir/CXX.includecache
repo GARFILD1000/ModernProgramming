@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/YandexDisk/Programming/ModernProgramming/SimpleFraction/TFrac.h
+cmath
+-
+string
+-
+sstream
+-
+iostream
+-
+iomanip
+-
+vector
+-
+
+E:/YandexDisk/Programming/ModernProgramming/SimpleFraction/main.cpp
+iostream
+-
+TFrac.h
+E:/YandexDisk/Programming/ModernProgramming/SimpleFraction/TFrac.h
+
