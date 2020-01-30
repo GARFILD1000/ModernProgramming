@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:background="@android:color/transparent"
+        >
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll|enterAlways">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                >
+                <ImageButton
+                    android:id="@+id/cancelButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/ic_close_black"/>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/deleteUserButton"
+                    android:layout_width="36dp"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_delete_black"
+                    android:visibility="invisible"/>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+                <ImageButton
+                    android:id="@+id/saveUserButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/ic_ok_black"/>
+            </LinearLayout>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_margin="40dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_account_circle_black" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_arrow_right" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="First Name:"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/userFirstNameEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="sans-serif-medium"
+                    android:hint="type here"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_arrow_right" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="Last Name:"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/userLastNameEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="sans-serif-medium"
+                    android:hint="type here"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_arrow_right" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="Phone:"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/userMobilePhoneEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="sans-serif-medium"
+                    android:hint="type here"
+                    android:inputType="phone"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_arrow_right" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="Email:"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/userEmailEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="sans-serif-medium"
+                    android:hint="type here"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:textSize="16sp"
+                    android:inputType="textEmailAddress"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_arrow_right" />
+
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="Url Address:"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/userUrlEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="sans-serif-medium"
+                    android:hint="type here"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:textSize="16sp"
+                    android:inputType="textEmailAddress"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

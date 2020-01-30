@@ -1,78 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e42fa78-1ed5-46f2-8cc0-9f31505ba40c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d616f7f5-57f2-46e1-86bc-ea847269da7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/ComplexNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/META-INF/ComplexNumber.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex$Companion (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex$WrongNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexNumber/src/com/garfild1000/ComplexNumber/TComplex.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/META-INF/PNumber.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/NumberBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumber$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/WrongNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/example/pnumber/PNumber.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/SimpleFraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/TFrac.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/TFrac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/SimpleFraction.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/SimpleFraction.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/SimpleFraction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFraction/screenshot1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/SimpleFractionJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/out/production/SimpleFractionJava/META-INF/SimpleFractionJava.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/out/production/SimpleFractionJava/com/example/SimpleFraction/SimpleFraction$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/out/production/SimpleFractionJava/com/example/SimpleFraction/SimpleFraction$WrongNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/out/production/SimpleFractionJava/com/example/SimpleFraction/SimpleFraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/src/com/example/SimpleFraction/SimpleFraction.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SNthfr7ZMmTLHsH2N6Bd3jgwMW" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKYL0nPTsrD2ryH1UsET0x9pVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fraction" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Gradle.TPNumberEditorTest">
+    <configuration name="TPNumberEditorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.pnumber.TPNumberEditorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TPNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.pnumber.TPNumberTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Gradle.TPNumberEditorTest" />
+        <item itemvalue="Gradle.TPNumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Run" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="PNumber" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="main.com.example.pnumber.PNumberKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="PNumber" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="java.com.example.pnumber.PNumberKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e42fa78-1ed5-46f2-8cc0-9f31505ba40c" name="Default Changelist" comment="" />
-      <created>1571416001275</created>
+      <changelist id="d616f7f5-57f2-46e1-86bc-ea847269da7a" name="Default Changelist" comment="" />
+      <created>1577003193564</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571416001275</updated>
+      <updated>1577003193564</updated>
+      <workItem from="1577003198273" duration="1387000" />
+      <workItem from="1577010401384" duration="3463000" />
+      <workItem from="1577014640832" duration="85000" />
+      <workItem from="1577079636322" duration="1406000" />
+      <workItem from="1577502477692" duration="1785000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="32" width="802" height="676" key="#Project_Structure" timestamp="1577003250616">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="556" y="32" width="802" height="676" key="#Project_Structure/0.0.1366.742@0.0.1366.742" timestamp="1577003250616" />
+    <state x="282" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577004390465">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="282" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.742@0.0.1366.742" timestamp="1577004390465" />
+    <state x="799" y="100" width="467" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577013732712">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="799" y="100" width="467" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.742@0.0.1366.742" timestamp="1577013732712" />
+    <state x="815" y="128" width="426" height="483" key="FileChooserDialogImpl" timestamp="1577503824380">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="815" y="128" width="426" height="483" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1577503824380" />
+    <state width="623" height="285" key="GridCell.Tab.0.bottom" timestamp="1577013865001">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="623" height="285" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1577013865001" />
+    <state width="623" height="285" key="GridCell.Tab.0.center" timestamp="1577013865000">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="623" height="285" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1577013865000" />
+    <state width="623" height="285" key="GridCell.Tab.0.left" timestamp="1577013864994">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="623" height="285" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1577013864994" />
+    <state width="623" height="285" key="GridCell.Tab.0.right" timestamp="1577013865001">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="623" height="285" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1577013865001" />
+    <state x="362" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1577502477414">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="362" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.742@0.0.1366.742" timestamp="1577502477414" />
   </component>
 </project>

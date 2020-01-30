@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.complex.TComplexEditorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-12-22T13:24:38" hostname="dmitriy-Vostro-3558" time="0.023">
+  <properties/>
+  <testcase name="checkRemoveLast" classname="com.example.complex.TComplexEditorTest" time="0.004"/>
+  <testcase name="checkChangeSign" classname="com.example.complex.TComplexEditorTest" time="0.016"/>
+  <testcase name="checkAddDigitAndZero" classname="com.example.complex.TComplexEditorTest" time="0.001"/>
+  <testcase name="checkClear" classname="com.example.complex.TComplexEditorTest" time="0.0"/>
+  <testcase name="checkAddDivider" classname="com.example.complex.TComplexEditorTest" time="0.0"/>
+  <testcase name="checkConstructor" classname="com.example.complex.TComplexEditorTest" time="0.0"/>
+  <testcase name="checkEditComplex" classname="com.example.complex.TComplexEditorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

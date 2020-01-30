@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.memory.TProcTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-22T10:26:06" hostname="dmitriy-Vostro-3558" time="0.01">
+  <properties/>
+  <testcase name="checkRunOperation" classname="com.example.memory.TProcTest" time="0.007"/>
+  <testcase name="checkRunFunction" classname="com.example.memory.TProcTest" time="0.0"/>
+  <testcase name="checkClear" classname="com.example.memory.TProcTest" time="0.001"/>
+  <testcase name="checkReset" classname="com.example.memory.TProcTest" time="0.0"/>
+  <testcase name="checkConstructor" classname="com.example.memory.TProcTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

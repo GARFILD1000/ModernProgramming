@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.fraction.TFractionEditorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-22T12:00:27" hostname="dmitriy-Vostro-3558" time="0.025">
+  <properties/>
+  <testcase name="checkEditFraction" classname="com.example.fraction.TFractionEditorTest" time="0.019"/>
+  <testcase name="checkAddZero" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkClear" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkRemoveLastDigit" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkAddDigitAndChangeSign" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkIsZero" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkAddDivider" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <testcase name="checkConstructor" classname="com.example.fraction.TFractionEditorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

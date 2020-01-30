@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/userListFragment"
+    android:id="@+id/graph">
+
+    <fragment
+        android:id="@+id/userListFragment"
+        android:name="com.example.phonebook.ui.fragment.UserListFragment"
+        android:label="UserListFragment"
+        tools:layout="@layout/fragment_user_list"
+        >
+        <action
+            android:id="@+id/action_searchFragment_to_playVideoFragment"
+            app:destination="@id/newUserFragment"
+            app:popEnterAnim="@anim/nav_default_enter_anim"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/newUserFragment"
+        android:name="com.example.phonebook.ui.fragment.NewUserFragment"
+        android:label="NewUserFragment"
+        tools:layout="@layout/fragment_new_user"
+        >
+    </fragment>
+</navigation>

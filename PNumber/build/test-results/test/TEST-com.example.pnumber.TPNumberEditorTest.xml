@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pnumber.TPNumberEditorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-22T11:23:51" hostname="dmitriy-Vostro-3558" time="0.033">
+  <properties/>
+  <testcase name="checkEditNumber" classname="com.example.pnumber.TPNumberEditorTest" time="0.024"/>
+  <testcase name="checkAddZero" classname="com.example.pnumber.TPNumberEditorTest" time="0.0"/>
+  <testcase name="checkChangeSign" classname="com.example.pnumber.TPNumberEditorTest" time="0.001"/>
+  <testcase name="checkClear" classname="com.example.pnumber.TPNumberEditorTest" time="0.001"/>
+  <testcase name="checkRemoveLastDigit" classname="com.example.pnumber.TPNumberEditorTest" time="0.0"/>
+  <testcase name="checkIsZero" classname="com.example.pnumber.TPNumberEditorTest" time="0.001"/>
+  <testcase name="checkAddDivider" classname="com.example.pnumber.TPNumberEditorTest" time="0.001"/>
+  <testcase name="checkConstructor" classname="com.example.pnumber.TPNumberEditorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
