@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d616f7f5-57f2-46e1-86bc-ea847269da7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/.idea/kotlinc.xml" beforeDir="false" />
@@ -18,21 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex$WrongNumberException.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/out/production/ComplexNumber/com/garfild1000/ComplexNumber/TComplex.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComplexNumber/src/com/garfild1000/ComplexNumber/TComplex.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PNumber.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/META-INF/PNumber.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/NumberBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumber$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/PNumberKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PNumber/main/com/example/pnumber/WrongNumberException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/example/pnumber/PNumber.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/SimpleFraction.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFraction/.idea/modules.xml" beforeDir="false" />
@@ -85,6 +70,7 @@
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/SimpleFractionJava.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SimpleFractionJava/out/production/SimpleFractionJava/META-INF/SimpleFractionJava.kotlin_module" beforeDir="false" />
@@ -143,7 +129,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fraction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Memory" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -229,6 +215,8 @@
       <workItem from="1577014640832" duration="85000" />
       <workItem from="1577079636322" duration="1406000" />
       <workItem from="1577502477692" duration="1785000" />
+      <workItem from="1586182245354" duration="1934000" />
+      <workItem from="1586344053068" duration="41000" />
     </task>
     <servers />
   </component>
@@ -236,41 +224,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="32" width="802" height="676" key="#Project_Structure" timestamp="1577003250616">
+    <state x="466" y="129" width="426" height="483" key="FileChooserDialogImpl" timestamp="1586344091512">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state x="556" y="32" width="802" height="676" key="#Project_Structure/0.0.1366.742@0.0.1366.742" timestamp="1577003250616" />
-    <state x="282" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577004390465">
+    <state x="466" y="129" width="426" height="483" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1586344091512" />
+    <state x="362" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1586344082793">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state x="282" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.742@0.0.1366.742" timestamp="1577004390465" />
-    <state x="799" y="100" width="467" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577013732712">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state x="799" y="100" width="467" height="541" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.742@0.0.1366.742" timestamp="1577013732712" />
-    <state x="815" y="128" width="426" height="483" key="FileChooserDialogImpl" timestamp="1577503824380">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state x="815" y="128" width="426" height="483" key="FileChooserDialogImpl/0.0.1366.742@0.0.1366.742" timestamp="1577503824380" />
-    <state width="623" height="285" key="GridCell.Tab.0.bottom" timestamp="1577013865001">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state width="623" height="285" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1577013865001" />
-    <state width="623" height="285" key="GridCell.Tab.0.center" timestamp="1577013865000">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state width="623" height="285" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1577013865000" />
-    <state width="623" height="285" key="GridCell.Tab.0.left" timestamp="1577013864994">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state width="623" height="285" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1577013864994" />
-    <state width="623" height="285" key="GridCell.Tab.0.right" timestamp="1577013865001">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state width="623" height="285" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1577013865001" />
-    <state x="362" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1577502477414">
-      <screen x="0" y="0" width="1366" height="742" />
-    </state>
-    <state x="362" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.742@0.0.1366.742" timestamp="1577502477414" />
+    <state x="362" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.742@0.0.1366.742" timestamp="1586344082793" />
   </component>
 </project>
